@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.72/help/ios/child.ipa</string>
+					<string>https://raw.githubusercontent.com/xuware/apage/master/child.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
